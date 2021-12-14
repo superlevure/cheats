@@ -2,3 +2,6 @@
 
 # network utils
 docker run --rm -it --network host --privileged --name network-utils superlevure/network-utils:latest
+
+# docker run
+docker run --rm -it --entrypoint bash <image>
