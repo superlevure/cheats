@@ -1,0 +1,4 @@
+% linux
+
+# port allocated lsof
+sudo lsof -i:<port>
